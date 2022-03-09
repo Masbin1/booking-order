@@ -1,3 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_booking_order_booking_order,booking_order.booking_order,model_booking_order_booking_order,,1,1,1,1
 access_sales_order,acces.sales.order,model_sales_order,,1,1,1,1
